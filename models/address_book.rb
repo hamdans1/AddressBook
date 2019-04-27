@@ -38,4 +38,7 @@ class AddressBook
     end
   end
 
+  def binary_search(name)
+  end
+
 end
